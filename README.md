@@ -37,3 +37,11 @@ Implement a data storage mechanism to store employee and leave request informati
 
 Security:
 Implement user authentication and authorization to ensure that only authorized users can access the system.
+
+
+Instructions:
+
+After setting up the database, log in with either Admin (Username: admin, Password: admin) or Employee (Username: e1 Password: e1).
+
+From the Employee Page you will be taken directly into the leave submition. 
+From the Admin you will be able to filter and view leave requests by Type, Edit their Status, or Delete the request entirely.
