@@ -41,6 +41,8 @@ Implement user authentication and authorization to ensure that only authorized u
 
 Instructions:
 
+The App is compiled in .Net Framework Forms.
+
 After setting up the database, log in with either Admin (Username: admin, Password: admin) or Employee (Username: e1 Password: e1).
 
 From the Employee Page you will be taken directly into the leave submition. 
